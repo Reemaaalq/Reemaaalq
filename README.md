@@ -13,7 +13,7 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 # Skills 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| EDR-SOAR Project                               | SOC Automation Lab|
+| EDR-SOAR Project                               |<a href="https://github.com/Reemaaalq/EDR-SOAR-Project.git"> Detection Lab</a>|
 | Security Automation with Shuffle SOAR          | SOC Automation Lab|
 | Incident Response Planning and Execution       | SOC Automation Lab|
 | Case Management with TheHive                   | SOC Automation Lab|
