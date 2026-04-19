@@ -35,6 +35,7 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 
 ### 🧩 Virtualization & Infrastructure
 - VirtualBox
+- VMware
 
 
 ### Endpoint
